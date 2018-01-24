@@ -94,7 +94,7 @@ class FormatIdentifier {
             */
             case 'ods':
             case 'ots':
-                return 'OOCalc';
+                return 'OpenDocument';
                 break;
 
             /*
